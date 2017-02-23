@@ -1,3 +1,5 @@
 # DiscordBot
 
-[] Implement a Discord bot with a partial-consensus voting mechanism
+
+## Features:
+- [ ] Implement a Discord bot with a partial-consensus voting mechanism
